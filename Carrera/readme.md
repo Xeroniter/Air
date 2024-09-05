@@ -43,25 +43,32 @@ Carrera : Superstore Time Series
 > ![image](https://github.com/user-attachments/assets/e384ee73-5a63-4546-9923-a62318f3d237)
 > ![image](https://github.com/user-attachments/assets/10766025-ebed-4183-aa66-74cfc092b9dd)
 > ![image](https://github.com/user-attachments/assets/42bd6ff7-57dc-4092-92d7-e7d2ef76bd83)
+* Hi !
 
-State
+### State
 > ![image](https://github.com/user-attachments/assets/cff3ef5f-f687-411d-8068-d410465f02c9)
+* While California is in The West, New York, Texas, Washington is in East, Pennsylvania is in Central. But California Remain is the Highest Total Sales in all Region
+* California, New York is The Highest in Their Each Respective Region 
 
-City
+### City
 > ![image](https://github.com/user-attachments/assets/bd201d85-f01a-4081-9e3d-e0ac9bdc186c)
+* Hi !
 
-Category
+### Category
 > ![image](https://github.com/user-attachments/assets/2b746651-9c2c-4dff-b4c8-6bdd1ca62f3b)
 > ![image](https://github.com/user-attachments/assets/7bb5f90d-d987-4f60-8685-cefc1a08b2ae)
+* Hi !
 
-Product
+### Product
 > ![image](https://github.com/user-attachments/assets/110e6813-fae0-4de5-8e51-e9d83e62e965)
 > ![image](https://github.com/user-attachments/assets/7b6c0a85-c749-4d12-9672-ad1a7a3057a5)
 > ![image](https://github.com/user-attachments/assets/cab39de9-7649-4654-9e04-a7bfa7e45c58)
 > ![image](https://github.com/user-attachments/assets/b4388181-e705-46dc-b746-efbe005c3e52)
+* Hi !
 
-Model
+### Model
 > ![image](https://github.com/user-attachments/assets/73b86c1d-09f4-439a-8bce-69b4e5b90cc6)
+* Hi !
 
 ### 📄 Final
 Our 4 Years in Store is Good, but, Several Challenges Occur for 2019
@@ -77,3 +84,5 @@ While Consumer Segment is Responsible for 50 % Total Sales, Increasing Total Sal
 On Customer, Perform Several Customer Segmentation Method to Understand Customer Behaviour Even More to Personalized The Interaction, if this Store Have Apps, Performing Market Basket Analysis is Also Good to Recommend Other Product
 
 Our Time Series Model is Perform Best With Seasonal Arima, Why ? There Are Seasonality in Daily Plot Data, While The Model itself Need More Effort to Improve, Our Model is Already at MVP Level.
+
+### 🧨 More on [Notebook](Lab%2001.ipynb) And [Google Data Studio](https://lookerstudio.google.com/reporting/a29008d1-67a3-4fe4-a881-b00e612583c7)
